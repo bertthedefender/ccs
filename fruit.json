@@ -1,0 +1,11 @@
+{"fruit":[
+{"type":"apple", "price":149, "weight":120},
+{"type":"banana", "price":129, "weight":80},
+{"type":"blueberry", "price":19, "weight":18},
+{"type":"orange", "price":169, "weight":150},
+{"type":"melon", "price":220, "weight":520},
+{"type":"mango", "price":105, "weight":125},
+{"type":"pineapple", "price":210, "weight":350},
+{"type":"pear", "price":165, "weight":110},
+{"type":"tomato", "price":45, "weight":75}
+]}
